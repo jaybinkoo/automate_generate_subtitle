@@ -30,9 +30,9 @@ https://cloud.google.com/speech-to-text/docs/languages
 ### 결과물 요약
 
 텍스트 따온거 : 
-![speech2txt](C:\Users\User1\Documents\Python Scripts\OpenApi\speech2txt_result.png)
+![speech2txt](speech2txt_result.png)
 네이버 파파고 번역물
-![JPN_KOR](C:\Users\User1\Documents\Python Scripts\OpenApi\JPN2KOR_result.png)
+![JPN_KOR](JPN2KOR_result.png)
 
 
 
